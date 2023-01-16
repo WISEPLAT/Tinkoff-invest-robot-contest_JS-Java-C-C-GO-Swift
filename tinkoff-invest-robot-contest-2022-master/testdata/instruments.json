@@ -1,0 +1,1031 @@
+[
+  {
+    "FIGI": "BBG000RMWQD4",
+    "ISIN": "RU000A100K72",
+    "Name": "En+ Group",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG00ZHCX1X2",
+    "ISIN": "US33835G2057",
+    "Name": "Fix Price Group",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG000VFX6Y4",
+    "ISIN": "US37949E2046",
+    "Name": "Globaltrans Investment PLC",
+    "Lot": 1,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG00172J7S9",
+    "ISIN": "US6708662019",
+    "Name": "O'Key Group SA",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG00Y91R9T3",
+    "ISIN": "US69269L1044",
+    "Name": "Ozon Holdings PLC",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG00VPKLPX4",
+    "ISIN": "GB0031544546",
+    "Name": "Petropavlovsk PLC",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG004PYF2N3",
+    "ISIN": "JE00B6T5S470",
+    "Name": "Polymetal",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "TCS00A103X66",
+    "ISIN": "RU000A103X66",
+    "Name": "Positive Technologies",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG005D1WCQ1",
+    "ISIN": "US74735M1080",
+    "Name": "QIWI",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG00QPYJ5H0",
+    "ISIN": "TCS7238U2033",
+    "Name": "TCS Group",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG011MCM288",
+    "ISIN": "US91085A2033",
+    "Name": "United medical group",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG00R4Z2NT4",
+    "ISIN": "BMG9349W1038",
+    "Name": "VEON",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG00178PGX3",
+    "ISIN": "US5603172082",
+    "Name": "VK",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG006L8G4H1",
+    "ISIN": "NL0009805522",
+    "Name": "Yandex",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG012YQ6P43",
+    "ISIN": "US83418T1088",
+    "Name": "АДР Циан",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG004S68B31",
+    "ISIN": "RU0007252813",
+    "Name": "АЛРОСА",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S68614",
+    "ISIN": "RU000A0DQZE3",
+    "Name": "АФК Система",
+    "Lot": 100,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG002W2FT69",
+    "ISIN": "RU000A0JS5T7",
+    "Name": "АбрауДюрсо",
+    "Lot": 10,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG004S688G4",
+    "ISIN": "RU0009028674",
+    "Name": "Акрон",
+    "Lot": 1,
+    "MinPriceIncrement": "2"
+  },
+  {
+    "FIGI": "BBG000K3STR7",
+    "ISIN": "RU0008081765",
+    "Name": "Аптечная сеть 36,6",
+    "Lot": 10,
+    "MinPriceIncrement": "0.002"
+  },
+  {
+    "FIGI": "BBG000RJWGC4",
+    "ISIN": "RU000A0B88G6",
+    "Name": "Ашинский метзавод",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG004S683W7",
+    "ISIN": "RU0009062285",
+    "Name": "Аэрофлот",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG004730ZJ9",
+    "ISIN": "RU000A0JP5V6",
+    "Name": "Банк ВТБ",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.000005"
+  },
+  {
+    "FIGI": "BBG000QJW156",
+    "ISIN": "RU0009100945",
+    "Name": "Банк Санкт-Петербург",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S68758",
+    "ISIN": "RU0007976957",
+    "Name": "Башнефть",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG004S686N0",
+    "ISIN": "RU0007976965",
+    "Name": "Башнефть - привилегированные акции",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000VQWH86",
+    "ISIN": "RU000A0J2QG8",
+    "Name": "Белон",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG000TY1CD1",
+    "ISIN": "RU000A0HL5M1",
+    "Name": "Белуга Групп ПАО ао",
+    "Lot": 1,
+    "MinPriceIncrement": "1"
+  },
+  {
+    "FIGI": "BBG004S68CV8",
+    "ISIN": "RU0009100291",
+    "Name": "ВСМПО-АВИСМА",
+    "Lot": 1,
+    "MinPriceIncrement": "20"
+  },
+  {
+    "FIGI": "BBG000RK52V1",
+    "ISIN": "RU000A0JNG55",
+    "Name": "Вторая генерирующая компания оптового рынка электроэнергии",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0001"
+  },
+  {
+    "FIGI": "BBG001M2SC01",
+    "ISIN": "US29760G1031",
+    "Name": "ГДР Etalon Group PLC",
+    "Lot": 1,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG0136BTL03",
+    "ISIN": "US83407L2079",
+    "Name": "ГДР Softline",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG00JXPFBN0",
+    "ISIN": "US98387E2054",
+    "Name": "ГДР X5 RetailGroup",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG00F6NKQX3",
+    "ISIN": "RU000A0ZZG02",
+    "Name": "ГК Самолет",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG00HY6V6H5",
+    "ISIN": "RU000A0ZYD22",
+    "Name": "ГТМ",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG004730RP0",
+    "ISIN": "RU0007661625",
+    "Name": "Газпром",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S684M6",
+    "ISIN": "RU0009062467",
+    "Name": "Газпром нефть",
+    "Lot": 1,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG00B8NN386",
+    "ISIN": "RU000A0JV532",
+    "Name": "Городские Инновационные Технологии",
+    "Lot": 100,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG004S68C39",
+    "ISIN": "RU000A0JPFP0",
+    "Name": "Группа ЛСР",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG000RTHVK7",
+    "ISIN": "RU000A0JL4R1",
+    "Name": "Группа Черкизово",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000QF1Q17",
+    "ISIN": "RU0008992318",
+    "Name": "ДВМП",
+    "Lot": 100,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG000V07CB8",
+    "ISIN": "RU000A0JP2W1",
+    "Name": "ДЭК",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG000LWVHN8",
+    "ISIN": "RU000A0F63G0",
+    "Name": "Дагестанская энергосбытовая компания",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0001"
+  },
+  {
+    "FIGI": "BBG000BN56Q9",
+    "ISIN": "RU000A0JSQ90",
+    "Name": "Детский Мир",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG000N16BP3",
+    "ISIN": "RU000A0JNAB6",
+    "Name": "ИСКЧ",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG004S68473",
+    "ISIN": "RU000A0JPNM1",
+    "Name": "Интер РАО ЕЭС",
+    "Lot": 100,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG000NL6ZD9",
+    "ISIN": "RU0008960828",
+    "Name": "Иркутскэнерго",
+    "Lot": 100,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG000LNHHJ9",
+    "ISIN": "RU0008959580",
+    "Name": "КАМАЗ",
+    "Lot": 10,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG000DBD6F6",
+    "ISIN": "RU000A0DKZK3",
+    "Name": "Калужская сбытовая компания",
+    "Lot": 100,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG000F6H7K3",
+    "ISIN": "RU000A0JNMZ0",
+    "Name": "Квадра",
+    "Lot": 100000,
+    "MinPriceIncrement": "0.000005"
+  },
+  {
+    "FIGI": "BBG000FWGSZ5",
+    "ISIN": "RU0006752979",
+    "Name": "Корпорация ИРКУТ",
+    "Lot": 100,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG000NLB2G3",
+    "ISIN": "RU0008913850",
+    "Name": "Красный Октябрь",
+    "Lot": 10,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG002B9MYC1",
+    "ISIN": "RU000A0B9BV2",
+    "Name": "КуйбышевАзот",
+    "Lot": 10,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG002B9T6Y1",
+    "ISIN": "RU000A0B9BW0",
+    "Name": "КуйбышевАзот - Акции привилегированные",
+    "Lot": 10,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG004731032",
+    "ISIN": "RU0009024277",
+    "Name": "ЛУКОЙЛ",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000SK7JS5",
+    "ISIN": "RU000A0JP1N2",
+    "Name": "Лензолото",
+    "Lot": 1,
+    "MinPriceIncrement": "10"
+  },
+  {
+    "FIGI": "BBG000SR0YS4",
+    "ISIN": "RU000A0JP1P7",
+    "Name": "Лензолото - привилегированные акции",
+    "Lot": 1,
+    "MinPriceIncrement": "5"
+  },
+  {
+    "FIGI": "BBG0063FKTD9",
+    "ISIN": "RU000A102S15",
+    "Name": "Лента",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000NLC9Z6",
+    "ISIN": "RU0009034490",
+    "Name": "Ленэнерго",
+    "Lot": 100,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG000NLCCM3",
+    "ISIN": "RU0009092134",
+    "Name": "Ленэнерго - акции привилегированные",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG004S68CP5",
+    "ISIN": "RU000A0JPGA0",
+    "Name": "М.видео",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG000PZ0833",
+    "ISIN": "RU0009036479",
+    "Name": "МГТС - акции привилегированные",
+    "Lot": 1,
+    "MinPriceIncrement": "2"
+  },
+  {
+    "FIGI": "BBG009GSYN76",
+    "ISIN": "RU000A0JUG31",
+    "Name": "МКБ",
+    "Lot": 100,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG004S687G6",
+    "ISIN": "RU000A0ET7Y7",
+    "Name": "МОЭСК",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG000PKWCQ7",
+    "ISIN": "RU000A0JPPN4",
+    "Name": "МРСК Волги",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.00005"
+  },
+  {
+    "FIGI": "BBG000VJMH65",
+    "ISIN": "RU000A0JPPF0",
+    "Name": "МРСК Сибири",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG000VKG4R5",
+    "ISIN": "RU000A0JPPT1",
+    "Name": "МРСК Урала",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.0002"
+  },
+  {
+    "FIGI": "BBG000C7P5M7",
+    "ISIN": "RU000A0JPPG8",
+    "Name": "МРСК Юга",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.00005"
+  },
+  {
+    "FIGI": "BBG004S681W1",
+    "ISIN": "RU0007775219",
+    "Name": "МТС",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG004RVFCY3",
+    "ISIN": "RU000A0JKQU8",
+    "Name": "Магнит",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG004S68507",
+    "ISIN": "RU0009084396",
+    "Name": "Магнитогорский металлургический комбинат",
+    "Lot": 10,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG00Y3XYV94",
+    "ISIN": "US55279C2008",
+    "Name": "Мать и дитя",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG004S68598",
+    "ISIN": "RU000A0DKXV5",
+    "Name": "Мечел",
+    "Lot": 1,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S68FR6",
+    "ISIN": "RU000A0JPV70",
+    "Name": "Мечел - Привилегированные акции",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG004730JJ5",
+    "ISIN": "RU000A0JR4A1",
+    "Name": "Московская Биржа",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S68DD6",
+    "ISIN": "RU0009177331",
+    "Name": "Мостотрест",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG004S687W8",
+    "ISIN": "RU0008958863",
+    "Name": "Мосэнерго",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG001BBSZV8",
+    "ISIN": "RU000A0JTFH9",
+    "Name": "Мультисистема",
+    "Lot": 100,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG00BGKYH17",
+    "ISIN": "RU000A0BLWD7",
+    "Name": "НКХП",
+    "Lot": 10,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG004S681B4",
+    "ISIN": "RU0009046452",
+    "Name": "НЛМК",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG004S68BR5",
+    "ISIN": "RU0009084446",
+    "Name": "НМТП",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG00475KKY8",
+    "ISIN": "RU000A0DKVS5",
+    "Name": "НОВАТЭК",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG002BCQK67",
+    "ISIN": "RU000A0JQLB6",
+    "Name": "Наука-Связь",
+    "Lot": 10,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000GQSRR5",
+    "ISIN": "RU0009100507",
+    "Name": "Нижнекамскнефтехим",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG000GQSVC2",
+    "ISIN": "RU0006765096",
+    "Name": "Нижнекамскнефтехим - акции привилегированные",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG004731489",
+    "ISIN": "RU0007288411",
+    "Name": "Норильский никель",
+    "Lot": 1,
+    "MinPriceIncrement": "2"
+  },
+  {
+    "FIGI": "BBG008HD3V85",
+    "ISIN": "RU000A0JVBT9",
+    "Name": "ОВК",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG001BBGNS2",
+    "ISIN": "RU000A0JXKG3",
+    "Name": "Обувь России",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG000Q7ZZY2",
+    "ISIN": "RU000A0JPLZ7",
+    "Name": "Объединенная авиастроительная корпорация",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG0029SFXB3",
+    "ISIN": "RU0009089825",
+    "Name": "ПАО «КАЗАНЬОРГСИНТЕЗ»",
+    "Lot": 10,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG0029SG1C1",
+    "ISIN": "RU0006753456",
+    "Name": "ПАО «КАЗАНЬОРГСИНТЕЗ» - акции привилегированные",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S68BH6",
+    "ISIN": "RU000A0JP7J7",
+    "Name": "ПИК",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG000MZL0Y6",
+    "ISIN": "RU000A0ET123",
+    "Name": "Пермэнергосбыт",
+    "Lot": 10,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG000MZL2S9",
+    "ISIN": "RU000A0ET156",
+    "Name": "Пермэнергосбыт - акции привилегированные",
+    "Lot": 10,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG000R607Y3",
+    "ISIN": "RU000A0JNAA8",
+    "Name": "Полюс Золото",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000LWNRP3",
+    "ISIN": "RU0009095939",
+    "Name": "РКК Энергия им.С.П.Королева",
+    "Lot": 1,
+    "MinPriceIncrement": "10"
+  },
+  {
+    "FIGI": "BBG008F2T3T2",
+    "ISIN": "RU000A1025V3",
+    "Name": "РУСАЛ",
+    "Lot": 10,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG004S68696",
+    "ISIN": "RU000A0B90N8",
+    "Name": "Распадская",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG00QKJSX05",
+    "ISIN": "RU000A0ZZM04",
+    "Name": "Ренессанс Страхование",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004731354",
+    "ISIN": "RU000A0J2Q06",
+    "Name": "Роснефть",
+    "Lot": 1,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG000TJ6F42",
+    "ISIN": "RU000A0JPPB9",
+    "Name": "Россети Северо-Запад",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.00005"
+  },
+  {
+    "FIGI": "BBG000VH7TZ8",
+    "ISIN": "RU000A0JPPL8",
+    "Name": "Россети Центр",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0002"
+  },
+  {
+    "FIGI": "BBG000VG1034",
+    "ISIN": "RU000A0JPN96",
+    "Name": "Россети Центр и Приволжье",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.0001"
+  },
+  {
+    "FIGI": "BBG004S682J4",
+    "ISIN": "RU000A0JPVJ0",
+    "Name": "Российские сети",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0001"
+  },
+  {
+    "FIGI": "BBG000KTF667",
+    "ISIN": "RU000A0JPVK8",
+    "Name": "Российские сети - акции привилегированные",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG004S682Z6",
+    "ISIN": "RU0008943394",
+    "Name": "Ростелеком",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG004S685M3",
+    "ISIN": "RU0009046700",
+    "Name": "Ростелеком - Привилегированные акции",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  },
+  {
+    "FIGI": "BBG007N0Z367",
+    "ISIN": "US7496552057",
+    "Name": "РусАгро",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG00475K2X9",
+    "ISIN": "RU000A0JPKH7",
+    "Name": "РусГидро",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0001"
+  },
+  {
+    "FIGI": "BBG0014PFYM2",
+    "ISIN": "RU000A0JPNP4",
+    "Name": "Русгрэйн",
+    "Lot": 10,
+    "MinPriceIncrement": "0.002"
+  },
+  {
+    "FIGI": "BBG004Z2RGW8",
+    "ISIN": "RU000A0JU1B0",
+    "Name": "Русолово",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG000R466J1",
+    "ISIN": "RU000A0JNH21",
+    "Name": "Русполимет",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG00F9XX7H4",
+    "ISIN": "RU000A0JSE60",
+    "Name": "РуссНефть",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG000W325F7",
+    "ISIN": "RU000A0JQTS3",
+    "Name": "Русская аквакультура",
+    "Lot": 1,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG004S68JR8",
+    "ISIN": "RU0006914488",
+    "Name": "СОЛЛЕРС",
+    "Lot": 10,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG002B2J5X0",
+    "ISIN": "RU0009100416",
+    "Name": "Саратовский НПЗ - акции привилегированные",
+    "Lot": 1,
+    "MinPriceIncrement": "20"
+  },
+  {
+    "FIGI": "BBG004730N88",
+    "ISIN": "RU0009029540",
+    "Name": "Сбер Банк",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG0047315Y7",
+    "ISIN": "RU0009029557",
+    "Name": "Сбер Банк - привилегированные акции",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG00475K6C3",
+    "ISIN": "RU0009046510",
+    "Name": "Северсталь",
+    "Lot": 1,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG0100R9963",
+    "ISIN": "RU000A102XG9",
+    "Name": "Сегежа",
+    "Lot": 100,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG002458LF8",
+    "ISIN": "RU000A0JPR50",
+    "Name": "Селигдар",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG000R04X57",
+    "ISIN": "RU000A0JXNU8",
+    "Name": "Совкомфлот",
+    "Lot": 10,
+    "MinPriceIncrement": "0.01"
+  },
+  {
+    "FIGI": "BBG0047315D0",
+    "ISIN": "RU0008926258",
+    "Name": "Сургутнефтегаз",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG004S681M2",
+    "ISIN": "RU0009029524",
+    "Name": "Сургутнефтегаз - привилегированные акции",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG000QFH687",
+    "ISIN": "RU000A0JNUD0",
+    "Name": "ТГК-1",
+    "Lot": 100000,
+    "MinPriceIncrement": "0.000002"
+  },
+  {
+    "FIGI": "BBG000RG4ZQ4",
+    "ISIN": "RU000A0H1ES3",
+    "Name": "ТГК-14",
+    "Lot": 1000000,
+    "MinPriceIncrement": "0.00001"
+  },
+  {
+    "FIGI": "BBG000Q7GG57",
+    "ISIN": "RU000A0JNGS7",
+    "Name": "ТГК-2",
+    "Lot": 1000000,
+    "MinPriceIncrement": "0.000005"
+  },
+  {
+    "FIGI": "BBG000Q7GJ60",
+    "ISIN": "RU000A0JNGT5",
+    "Name": "ТГК-2 - акции привилегированные",
+    "Lot": 100000,
+    "MinPriceIncrement": "0.00001"
+  },
+  {
+    "FIGI": "BBG000BX7DH0",
+    "ISIN": "RU000A0DPG67",
+    "Name": "ТНС энерго Воронеж",
+    "Lot": 10,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG004RVFFC0",
+    "ISIN": "RU0009033591",
+    "Name": "Татнефть",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG004S68829",
+    "ISIN": "RU0006944147",
+    "Name": "Татнефть - привилегированные акции",
+    "Lot": 1,
+    "MinPriceIncrement": "0.1"
+  },
+  {
+    "FIGI": "BBG000RJL816",
+    "ISIN": "RU000A0HM5C1",
+    "Name": "Таттелеком",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0005"
+  },
+  {
+    "FIGI": "BBG00475KHX6",
+    "ISIN": "RU0009091573",
+    "Name": "Транснефть - привилегированные акции",
+    "Lot": 1,
+    "MinPriceIncrement": "50"
+  },
+  {
+    "FIGI": "BBG004TC84Z8",
+    "ISIN": "RU000A0B6NK6",
+    "Name": "Трубная Металлургическая Компания",
+    "Lot": 10,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG00475JZZ6",
+    "ISIN": "RU000A0JPNN9",
+    "Name": "ФСК ЕЭС",
+    "Lot": 10000,
+    "MinPriceIncrement": "0.00002"
+  },
+  {
+    "FIGI": "BBG0019K04R5",
+    "ISIN": "RU000A0JR514",
+    "Name": "Фармсинтез",
+    "Lot": 100,
+    "MinPriceIncrement": "0.005"
+  },
+  {
+    "FIGI": "BBG004S689R0",
+    "ISIN": "RU000A0JRKT8",
+    "Name": "ФосАгро",
+    "Lot": 1,
+    "MinPriceIncrement": "1"
+  },
+  {
+    "FIGI": "BBG000BBV4M5",
+    "ISIN": "RU0007665147",
+    "Name": "Центральный Телеграф",
+    "Lot": 100,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG0027F0Y27",
+    "ISIN": "RU0007665139",
+    "Name": "Центральный Телеграф - акции привилегированные",
+    "Lot": 100,
+    "MinPriceIncrement": "0.02"
+  },
+  {
+    "FIGI": "BBG003BNWBP3",
+    "ISIN": "RU000A0JNXF9",
+    "Name": "ЧЗПСН",
+    "Lot": 100,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG000RP8V70",
+    "ISIN": "RU0007665170",
+    "Name": "ЧМК",
+    "Lot": 1,
+    "MinPriceIncrement": "5"
+  },
+  {
+    "FIGI": "BBG000Q49F45",
+    "ISIN": "RU0009066807",
+    "Name": "ЧТПЗ",
+    "Lot": 10,
+    "MinPriceIncrement": "0.5"
+  },
+  {
+    "FIGI": "BBG000F6YP24",
+    "ISIN": "RU000A0F5UN3",
+    "Name": "Энел Россия",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.0002"
+  },
+  {
+    "FIGI": "BBG003LYCMB1",
+    "ISIN": "RU000A0JVW89",
+    "Name": "ЭсЭфАй",
+    "Lot": 10,
+    "MinPriceIncrement": "0.2"
+  },
+  {
+    "FIGI": "BBG002YFXL29",
+    "ISIN": "RU0004887991",
+    "Name": "ЮУНК",
+    "Lot": 1,
+    "MinPriceIncrement": "10"
+  },
+  {
+    "FIGI": "BBG004S686W0",
+    "ISIN": "RU000A0JNGA5",
+    "Name": "Юнипро",
+    "Lot": 1000,
+    "MinPriceIncrement": "0.001"
+  },
+  {
+    "FIGI": "BBG002B298N6",
+    "ISIN": "RU0007796819",
+    "Name": "ЯТЭК",
+    "Lot": 10,
+    "MinPriceIncrement": "0.05"
+  }
+]

@@ -1,0 +1,39 @@
+.area {
+  width: 100%;
+  overflow: auto;
+}
+
+.bar {
+  fill: #fff;
+}
+
+.bar:hover {
+  fill: #e5e5e5;
+}
+
+.candle {
+  fill: #333;
+}
+
+.candle.candle-up {
+  fill: #91f6a9;
+}
+
+.candle.candle-down {
+  fill: #ffb4a7;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispedges;
+}
+
+.x.axis path {
+  display: none;
+}

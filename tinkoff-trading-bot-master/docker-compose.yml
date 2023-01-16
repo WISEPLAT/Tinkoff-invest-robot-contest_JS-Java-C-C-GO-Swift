@@ -1,0 +1,63 @@
+version: "3.3"
+
+services:
+  webapplication:
+    env_file: .env
+    build:
+      context: .
+      dockerfile: build/package/webapplication/Dockerfile
+    ports:
+      - "${WEB_APPLICATION_HOST_PORT:-80}:${WEB_APPLICATION_PORT:-80}"
+    volumes:
+      - ./web/dist:/app/web/dist:delegated
+      - ./web/static:/app/web/static:delegated
+    networks:
+      - ttb_net
+    depends_on:
+      - postgresql
+  
+  frontend:
+    build:
+      context: .
+      dockerfile: build/package/frontend/Dockerfile
+    tty: true
+    volumes:
+      - ./web:/usr/src/app:delegated
+
+  postgresql:
+    image: postgres:14.3-alpine
+    environment:
+      POSTGRES_DB: $DATABASE_NAME
+      POSTGRES_USER: $DATABASE_USER
+      POSTGRES_PASSWORD: $DATABASE_PASSWORD
+    ports:
+      - "${DATABASE_HOST_PORT:-5432}:${DATABASE_PORT:-5432}"
+    networks:
+      - ttb_net
+    volumes:
+      - ./data/postgresql:/var/lib/postgresql/data
+
+  tinkoffinvestconnection:
+    env_file: .env
+    build:
+      context: .
+      dockerfile: build/package/tinkoffinvestconnection/Dockerfile
+    networks:
+      - ttb_net
+    depends_on:
+      - postgresql
+
+  migrator:
+    env_file: .env
+    build:
+      context: .
+      dockerfile: build/package/migrator/Dockerfile
+    volumes:
+      - ./migrations:/migrations
+    networks:
+      - ttb_net
+networks:
+  ttb_net:
+    driver: bridge
+    driver_opts:
+      com.docker.network.enable_ipv6: "false"

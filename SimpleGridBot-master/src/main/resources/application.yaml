@@ -1,0 +1,11 @@
+app:
+  config:
+    app-name: ako2345.SimpleGridBot
+    sandbox-mode: true
+    real-token:
+    real-account:
+    sandbox-token:
+    sandbox-account:
+
+server:
+  port: ${PORT:5000}

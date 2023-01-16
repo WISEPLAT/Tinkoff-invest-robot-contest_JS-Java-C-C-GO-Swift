@@ -1,0 +1,8 @@
+/proto/
+/bounds.json
+/.idea/
+invest-robot.iml
+deploy_remote.sh
+deploy-test.sh
+/log/
+/vendor/

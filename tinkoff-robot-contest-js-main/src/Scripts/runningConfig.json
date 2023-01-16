@@ -1,0 +1,27 @@
+{
+  "isSanbox": false,
+
+  "strategy": {
+    "BollingerBands": {
+      "periods": 20,
+      "deviation": 2
+    }
+  },
+
+  "instrumentFigi": "BBG000B9XRY4",
+  "candleInterval": "1m",
+
+  "signalReceiver": {
+    "SampleSignalResolver": {
+      "accountId": "2011436587",
+      "lotsPerBet": 1,
+
+      "maxConcurrentBets": 3,
+
+      "takeProfitPercent": 0.001,
+      "stopLossPercent": 0.001,
+
+      "forceCloseOnFinish": true
+    }
+  }
+}

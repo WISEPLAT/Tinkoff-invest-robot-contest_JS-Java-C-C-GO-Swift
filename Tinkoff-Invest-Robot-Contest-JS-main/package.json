@@ -1,0 +1,27 @@
+{
+  "name": "tinkoff-invest-robot-contest",
+  "version": "1.0.0",
+  "description": "Пример торговой системы, работающей на API Тинькофф Инвестиций для Tinkoff Invest Robot Contest",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "backtest": "MODE=BACKTEST node src/index.js",
+    "sandbox": "MODE=SANDBOX node src/index.js",
+    "live": "MODE=LIVE node src/index.js",
+    "start": "node src/index.js",
+    "dev": "nodemon --watch src src/index.js",
+    "postinstall": "cd libs/unofficial-tinkoff-invest-api_v2-lazy-sdk-NODEJS && npm install && cd ../../"
+  },
+  "author": "egogoger",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "dotenv": "^16.0.1",
+    "minimist": "^1.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "prettier": "2.6.2",
+    "rimraf": "^3.0.2"
+  }
+}

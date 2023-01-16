@@ -1,0 +1,52 @@
+version: "3.3"
+services:
+  influxdb:
+    container_name: influxdb
+    image: influxdb:2.4
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=user
+      - DOCKER_INFLUXDB_INIT_PASSWORD=password
+      - DOCKER_INFLUXDB_INIT_ORG=m8u
+      - DOCKER_INFLUXDB_INIT_BUCKET=tinkoff-invest-contest
+    ports:
+      - "3002:8086"
+  grafana:
+    container_name: grafana
+    image: grafana/grafana-oss:9.1.2
+    environment:
+      - GF_LOG_LEVEL=warn
+      - GF_DASHBOARDS_MIN_REFRESH_INTERVAL=1s
+      - GF_INSTALL_PLUGINS=ryantxu-ajax-panel
+      - GF_PLUGINS_ALLOW_LOADING_UNSIGNED_PLUGINS=ryantxu-ajax-panel
+    depends_on:
+      - influxdb
+    restart: always
+    links:
+      - influxdb
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana-storage:/var/lib/grafana
+  trade:
+    container_name: trade
+    build:
+      context: .
+      dockerfile: build/trade/Dockerfile
+    environment:
+      - HOST=localhost
+      - PORT=3001
+    env_file:
+      - .env
+    depends_on:
+      - influxdb
+      - grafana
+    restart: on-failure:3
+    links:
+      - influxdb
+      - grafana
+    ports:
+      - "3001:3001"
+
+volumes:
+  grafana-storage:

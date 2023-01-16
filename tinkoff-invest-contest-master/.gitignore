@@ -1,0 +1,6 @@
+/.idea/
+/*.sh
+/.env
+/cmd/trade/logs
+/cmd/trade/cache/
+/cmd/trade/bot

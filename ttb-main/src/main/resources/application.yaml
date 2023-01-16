@@ -1,0 +1,11 @@
+user:
+  token: ''
+  mode: sandbox
+  max-balance: 3000
+  figis:
+    - "BBG004730N88"
+    - "BBG004730RP0"
+  strategy-parameters:
+    name: "Стакан"
+    takeProfit: 0.4
+  strategy-enable: true

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@100;400;500&display=swap" rel="stylesheet">
+    <title>Ошибка</title>
+    <link rel="icon" th:href="@{/images/favicon.jpeg}">
+    <link th:href="@{/css/style.css}" rel="stylesheet"/>
+</head>
+<body>
+<aside>
+</aside>
+<main>
+    <div class="page">
+        <div class="card">
+            <h4> Произошла ошибка </h4>
+            <p>Детали ошибки Вы можете посмотреть в логах сервера, если не получится разобраться, то Вы можете завести
+                Issue
+                на <a href="https://github.com/UncleSema/ttb">GitHub</a>.</p>
+            <p>Текст ошибки: <i th:text="${msg}"></i></p>
+            <a href="/">
+                <div class="tooltip">
+                    <button>
+                        <span class="tip">Вернуться на главную страницу</span>
+                        Назад
+                    </button>
+                </div>
+            </a>
+        </div>
+    </div>
+</main>
+</body>
+</html>
